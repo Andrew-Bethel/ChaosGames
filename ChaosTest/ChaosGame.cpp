@@ -96,7 +96,7 @@ int main()
             ///push back the newly generated coord.
 
             // more points
-            int maxPoints = 1000;               // not sure how many points but this should maybe be fine
+            int maxPoints = 3;               // not sure how many points but this should maybe be fine
             for (int i = 0; i < maxPoints; i++)
             {
                 int randomIndex = rand() % vertices.size(); // generate random index in range of vertices vector
