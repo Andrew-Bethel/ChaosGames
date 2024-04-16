@@ -1,0 +1,22 @@
+﻿  ChaosGame.cpp
+C:\Users\andre\source\repos\ChaosTest\ChaosGame.cpp(66,91): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\andre\source\repos\ChaosTest\ChaosGame.cpp(66,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\andre\source\repos\ChaosTest\ChaosGame.cpp(73,89): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\andre\source\repos\ChaosTest\ChaosGame.cpp(73,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ChaosTest.vcxproj -> C:\Users\andre\source\repos\ChaosTest\x64\Debug\ChaosTest.exe
